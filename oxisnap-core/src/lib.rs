@@ -1,12 +1,10 @@
+pub mod capturer;
 pub mod error;
-
+pub mod image;
 pub mod platforms;
 
-use image::RgbaImage;
-
-pub trait ScreenCapturer {
-    fn capture(&self) -> Result<RgbaImage, error::CaptureError>;
-}
+pub use capturer::ScreenCapturer;
+pub use error::{CaptureError, FfiError};
 
 #[cfg(target_os = "macos")]
-pub type NativeCapturer = platforms::macos::MacCapturer;
+pub use platforms::NativeCapturer;
