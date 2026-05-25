@@ -1,0 +1,16 @@
+<svg class="logo-mark" width="80" height="80" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="28,4 48.8,16 48.8,40 28,52 7.2,40 7.2,16" fill="none" stroke="#D85A30"
+        stroke-width="1.5" opacity="0.3" />
+    <path d="M28,8 Q36,18 28,28 Q22,18 28,8Z" fill="#993C1D" opacity="0.9" />
+    <path d="M28,8 Q36,18 28,28 Q22,18 28,8Z" fill="#993C1D" opacity="0.9"
+        transform="rotate(72,28,28)" />
+    <path d="M28,8 Q36,18 28,28 Q22,18 28,8Z" fill="#993C1D" opacity="0.9"
+        transform="rotate(144,28,28)" />
+    <path d="M28,8 Q36,18 28,28 Q22,18 28,8Z" fill="#993C1D" opacity="0.9"
+        transform="rotate(216,28,28)" />
+    <path d="M28,8 Q36,18 28,28 Q22,18 28,8Z" fill="#993C1D" opacity="0.9"
+        transform="rotate(288,28,28)" />
+    <circle cx="28" cy="28" r="14" fill="none" stroke="#D85A30" stroke-width="1.5" />
+    <circle cx="28" cy="28" r="5.5" fill="#F0997B" />
+    <circle cx="38" cy="18" r="2" fill="#EF9F27" opacity="0.9" />
+</svg>

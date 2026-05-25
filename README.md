@@ -1,18 +1,25 @@
 <div align="center">
 
-<!-- Logo / Aperture Icon -->
-<img src="docs/assets/logo.svg" alt="OxiSnap Logo" width="96" height="96"/>
+  <img src="docs/assets/logo.svg" alt="OxiSnap Logo" width="100" height="100" />
 
-# OxiSnap
+  <h1>OxiSnap <sup style="font-size: 0.4em; color: #888;">v0.1.0-alpha</sup></h1>
 
-*GPU-direct screenshot capture — blazing fast, memory safe, native.*
+  <p>
+    A <strong>blazing-fast, memory-safe</strong> screenshot extraction and sharing tool built entirely in Rust — <br>
+    hooking directly into native OS APIs with zero overhead and absolute safety guarantees.
+  </p>
 
-[![Rust](https://img.shields.io/badge/Rust-stable-orange?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Swift](https://img.shields.io/badge/Swift-5.9%2B-F54A2A?style=flat-square&logo=swift&logoColor=white)](https://swift.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
-[![Status](https://img.shields.io/badge/status-alpha-yellow?style=flat-square)]()
+  <p>
+    <img src="https://img.shields.io/badge/Rust-stable-orange?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/Swift_5.9+-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License" />
+  </p>
 
 </div>
+
+<br>
+
+
 
 ---
 
