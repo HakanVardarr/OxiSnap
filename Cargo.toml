@@ -1,0 +1,3 @@
+[workspace]
+members = ["oxisnap-core", "oxisnap-cli", "oxisnap-backend"]
+resolver = "2"
